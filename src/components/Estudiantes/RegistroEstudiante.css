@@ -1,0 +1,40 @@
+.registro-container {
+    width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    text-align: center;
+}
+
+.registro-input input {
+    display: block;
+    width: 90%;
+    padding: 10px;
+    margin: 10px auto;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.lista-estudiantes {
+    list-style: none;
+    padding: 0;
+}
+
+.lista-estudiantes li {
+    background: #e3e3e3;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+
